@@ -1,4 +1,4 @@
-```md
+
 ### Hi there 👋 I'm Jisoo Choi.
 
 <div align="center">
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Purchasing-4B5563?style=for-the-badge">
 
 </div>
-```
+
 
     <!--
 **chjs918/chjs918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
